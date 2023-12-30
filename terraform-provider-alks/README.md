@@ -4,6 +4,7 @@ ALKS Provider for Terraform
 [![Build Status](https://travis-ci.org/Cox-Automotive/terraform-provider-alks.svg?branch=master)](https://travis-ci.org/Cox-Automotive/terraform-provider-alks)
 
 This provider is for creating and modifying IAM roles via the ALKS API.
+https://github.com/Cox-Automotive/terraform-provider-alks
 
 ## Pre-Requisites
 
